@@ -38,5 +38,5 @@ DEPENDENCIES
   jeweler
   mocha
   rcov
-  redis (~> 2.2.2)
+  redis (>= 2.2.2)
   rspec
